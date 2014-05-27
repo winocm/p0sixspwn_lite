@@ -1,0 +1,15 @@
+This versiom of p0sixspwn is very loosely designed for 6.1.6... and the other devices too. 
+It worked after a fresh restore with the device unlocked and at the home screen, on success, your device
+will reboot and install everything as needed. 
+
+Please do not run this if you are already jailbroken, I do not care to add logic to check for that,
+if you brick your device by doing something stupid, that is your problem.
+
+Well, it works for the supported OSes, but this version is not supported.
+
+Of course I use CoreOSMakefiles, why not?
+
+Licensed under the same thing as the original p0sixspwn...
+
+...No warranty is given. No complaints will be answered...
+
